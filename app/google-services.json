@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "206709710555",
+    "firebase_url": "https://caresiren2.firebaseio.com",
+    "project_id": "caresiren2",
+    "storage_bucket": "caresiren2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206709710555:android:3be0bce118674538",
+        "android_client_info": {
+          "package_name": "com.example.attharvaj.caresiren"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206709710555-egg4g2pc93btamb4a8g8er8g5otd7ls1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attharvaj.caresiren",
+            "certificate_hash": "2478f05652dccefa0ddb50b2da6129834e6c0a01"
+          }
+        },
+        {
+          "client_id": "206709710555-klu592qcs1lreidgksknhb42i87slnji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPkacUFMZrN74vVRVh2VBKcpx-jDlCFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206709710555-klu592qcs1lreidgksknhb42i87slnji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

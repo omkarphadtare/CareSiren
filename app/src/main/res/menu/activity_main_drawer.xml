@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Services">
+        <menu>
+            <item
+                android:id="@+id/nav_police"
+                android:icon="@drawable/ic_security_black_24dp"
+                android:title="Police Stations" />
+            <item
+                android:id="@+id/nav_hospitals"
+                android:icon="@drawable/ic_healing_black_24dp"
+                android:title="Hospitals" />
+            <item
+                android:id="@+id/nav_medicals"
+                android:icon="@drawable/ic_add_circle_black_24dp"
+                android:title="Medicals" />
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_people_black_24dp"
+                android:title="About Us" />
+        </menu>
+    </item>
+
+</menu>
